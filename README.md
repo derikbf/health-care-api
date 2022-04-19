@@ -13,6 +13,9 @@ This project is the result of the second Hackaton of Rails Bootcamp prometed by 
 - postgresql 
 - React
 
+- Project Frontend
+<a href="https://github.com/e-bruns/health-care-app" target="_blank">Access Link</a>
+
 # Mockup
 The initial design concept was built on figma.
 
