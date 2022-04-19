@@ -10,7 +10,7 @@ This project is the result of the second Hackaton of Rails Bootcamp prometed by 
 
 - ruby on rails ``7.0.2``
 - ruby ``3.0.3``
-- postgresql
+- postgresql 
 - React
 
 # Mockup
